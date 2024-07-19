@@ -8,12 +8,13 @@ The algorithm will start with detecting the facial expression inputted. Once it 
 
 ## Running this project
 
-1. Download the dataset @ https://www.kaggle.com/datasets/noamsegal/affectnet-training-data
-2. Download code from github @ https://github.com/FinleyMeadows/Final-Project.git and open in vs code
-3. Transfer the dataset into vs code
-4. Unzip dataset folder
-5. Make sure to keep file names concise
-6. Run code to train the model on the dataset
-7. input images to test the model, if working correctly it should recommend music correlating with the detected emotion
+1. Download the datasets @ https://www.kaggle.com/datasets/noamsegal/affectnet-training-data
+   && https://www.kaggle.com/datasets/abdullahorzan/moodify-dataset
+3. Download code from github @ https://github.com/FinleyMeadows/Final-Project.git and open in vs code
+4. Transfer the dataset into vs code
+5. Unzip dataset folder
+6. Make sure to keep file names concise
+7. Run code to train the model on the dataset
+8. input images to test the model, if working correctly it should recommend music correlating with the detected emotion
 
 [View a video explanation here](video link)
